@@ -60,7 +60,7 @@
 # === Copyright
 #
 #
-class ipa (
+class ipa(
   $master        = false,
   $replica       = false,
   $client        = false,
